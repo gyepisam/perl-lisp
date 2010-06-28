@@ -1,0 +1,7 @@
+perl-lisp is a Lisp Interpreter written in perl!
+
+Initially based on Gisle Aas' perl-lisp, the interpreter has now evolved
+to support a significant set of operations.
+
+It can run as a standalone Read-Eval-Loop or as an extension system for
+a perl application.
