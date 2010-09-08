@@ -1,6 +1,7 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl
 
-use lib qw(/home/csc/webhome/equationresearch/library);
+use strict;
+use warnings;
 
 use Lisp::Interpreter;
 use Data::Dumper;
