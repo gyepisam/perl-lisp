@@ -2,7 +2,7 @@
 TESTFILES=./*.t
 
 test:
-	env PERL5LIB=$(EQRLIB) prove *.t
+ prove *.t
 
 clean:
 	rm -f *~
